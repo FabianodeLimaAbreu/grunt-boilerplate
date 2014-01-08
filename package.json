@@ -1,0 +1,26 @@
+{
+  "name": "grunt-boilerplate",
+  "version": "0.0.1",
+  "description": "A base to start and deploy your project usign grunt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FabianodeLimaAbreu/grunt-boilerplate"
+  },
+  "dependencies": {
+    "grunt": "~0.4.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-usemin": "~2.0.2",
+    "grunt-contrib-cssmin": "~0.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabiano de Lima Abreu",
+  "license": "BSD-2-Clause"
+}
